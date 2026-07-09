@@ -14,11 +14,11 @@
 <a href="https://www.topcoder.com/members/226028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="226028" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Languages & Tools</h3>
+<h3 align="center">💻 Languages & Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,django,mysql,nodejs,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,django,mysql,git,github,vscode&theme=dark" />
   </a>
 </p>
 
