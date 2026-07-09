@@ -4,7 +4,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
 - 🎓 **B.Tech CSE (AI & ML)** Student
 - 🌱 Currently learning **Node.js** & **Django**
@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="40%" align="center">
+<td width="30%" align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Coding"/>
 
