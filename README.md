@@ -1,14 +1,18 @@
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif">
-
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
-<h3 align="center">Software Developer | Frontend Developer | Competitive Programmer</h3>
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 🌱 Currently learning **Node.js** & **Django**
-- 💻 Solving DSA and building full-stack projects
-- 🚀 Aspiring Software Engineer
-- 📂 Portfolio: **https://github.com/vaibhavupadhyay001**
-- 📫 Email: **upadhyayvaibhav750@gmail.com**
+<h3 align="center">
+Software Developer • Competitive Programmer • Frontend Developer
+</h3>
+
+<p align="center">
+<img width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+</p>
+
+- 🎓 B.Tech CSE (AI & ML)
+- 🌱 Learning **Node.js** & **Django**
+- 💻 Solving DSA and building projects
+- 🚀 Open to Software Engineering opportunities
+- 📫 **upadhyayvaibhav750@gmail.com**
 
 
 
