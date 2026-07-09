@@ -9,7 +9,7 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vaibhav-upadhyay-a805b1347/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
