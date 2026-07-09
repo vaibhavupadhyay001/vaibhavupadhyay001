@@ -1,25 +1,26 @@
+<h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
+<h3 align="center">Software Developer | Competitive Programmer</h3>
+
 <table>
 <tr>
-<td width="60%">
 
-# Hi 👋, I'm Vaibhav Upadhyay
-
-### Software Developer | Competitive Programmer
+<td width="60%" valign="top">
 
 - 🎓 **B.Tech CSE (AI & ML)** Student
 - 🌱 Currently learning **Node.js** & **Django**
 - 💻 Solving **DSA** and building full-stack projects
 - 🚀 Aspiring **Software Engineer**
-- 📂 Portfolio: **github.com/vaibhavupadhyay001**
+- 📂 Portfolio: **[github.com/vaibhavupadhyay001](https://github.com/vaibhavupadhyay001)**
 - 📧 **upadhyayvaibhav750@gmail.com**
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Coding"/>
 
 </td>
+
 </tr>
 </table>
 
