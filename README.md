@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
 <h3 align="center">Software Developer | Competitive Programmer</h3>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="70%" valign="top">
+<td width="60%" valign="middle">
 
 - 🎓 **B.Tech CSE (AI & ML)** Student
 - 🌱 Currently learning **Node.js** & **Django**
@@ -15,9 +15,9 @@
 
 </td>
 
-<td width="30%" align="center">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Coding"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
 
 </td>
 
