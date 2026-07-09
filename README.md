@@ -19,6 +19,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavupadhyay001&" alt="vaibhavupadhyay001" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark" alt="GitHub Streak" /></a>
 
