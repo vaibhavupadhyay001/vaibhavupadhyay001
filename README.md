@@ -7,6 +7,21 @@
 
 - 📫 How to reach me **upadhyayvaibhav750@gmail.com**
 
+
+
+
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI2bTE2eWp2dWN4OTA0em1pbm5taGpqZDc0Ymt1MXU4d2JzdXhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
+
+
+
+
+
+
+
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
