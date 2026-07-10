@@ -64,10 +64,10 @@ Software Developer | Artificial Intelligence
 
 
 
-<table width="100%">
+<table width="120%">
 <tr>
 
-<td width="82%" valign="top">
+<td width="75%" valign="top">
 
 <a href="https://git.io/streak-stats">
   <img
@@ -78,7 +78,7 @@ Software Developer | Artificial Intelligence
 
 </td>
 
-<td width="18%" align="center" valign="middle">
+<td width="25%" align="center" valign="middle">
 
 <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&style=for-the-badge"/>
 
