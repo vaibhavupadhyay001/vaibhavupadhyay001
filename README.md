@@ -1,10 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 <h3 align="center">
 Software Developer | Artificial Intelligence
 </h3>
@@ -26,6 +21,7 @@ Software Developer | Artificial Intelligence
 
 <img alt="Coding"
      src="https://raw.githubusercontent.com/vaibhavupadhyay001/vaibhavupadhyay001/main/coding.gif" width="100%" />
+
 
 </td>
 
@@ -61,5 +57,23 @@ Software Developer | Artificial Intelligence
 </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark" alt="GitHub Streak" /></a>
+<table>
+<tr>
+
+<td width="75%">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark" alt="GitHub Streak" width="100%" />
+</a>
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</td>
+
+</tr>
+</table>
 
