@@ -16,7 +16,7 @@
 
 <td width="40%" align="center">
 
-<img src="coding.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/vaibhavupadhyay001/vaibhavupadhyay001/main/coding.gif" width="100%" />
 
 </td>
 
