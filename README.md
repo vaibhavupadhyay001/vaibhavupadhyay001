@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
-<h3 align="center">Software Developer | Competitive Programmer</h3>
+<h3 align="center">Software Developer | Artificial Intelligence</h3>
 
 <table width="100%">
 <tr>
