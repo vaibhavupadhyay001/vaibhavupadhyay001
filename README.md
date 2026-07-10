@@ -16,7 +16,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
+<img src="coding.gif" width="100%" />
 
 </td>
 
