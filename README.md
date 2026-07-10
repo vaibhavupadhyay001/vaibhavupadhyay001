@@ -57,20 +57,27 @@ Software Developer | Artificial Intelligence
 </p>
 
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="75%">
+<td width="85%" valign="middle">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark" alt="GitHub Streak" width="100%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark"
+    alt="GitHub Streak"
+    width="100%" />
 </a>
 
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/vaibhavupadhyay001?affiliations=OWNER&style=for-the-badge&label=Stars" alt="GitHub Stars"/>
 
 </td>
 
