@@ -6,12 +6,11 @@
 
 <td width="60%" valign="middle">
 
-- 🎓 **B.Tech CSE (AI & ML)** Student
-- 🌱 Currently learning **Node.js** & **Django**
-- 💻 Solving **DSA** and building full-stack projects
-- 🚀 Aspiring **Software Engineer**
-- 📂 Portfolio: **[github.com/vaibhavupadhyay001](https://github.com/vaibhavupadhyay001)**
-- 📧 **upadhyayvaibhav750@gmail.com**
+- **B.Tech CSE (AI & ML)** Student
+- Currently learning **Django**
+- Solving **DSA** and building full-stack projects
+- Aspiring **Software Engineer**
+- E-mail **upadhyayvaibhav750@gmail.com**
 
 </td>
 
