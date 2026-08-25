@@ -12,7 +12,7 @@ Software Developer | Artificial Intelligence
 - Currently learning **Django**
 - Solving **DSA** and building full-stack projects
 - Aspiring **Software Engineer**
-- E-mail **upadhyayvaibhav750@gmail.com**
+- E-mail **upadhyayvaibhav.work@gmail.com**
 
 </td>
 
