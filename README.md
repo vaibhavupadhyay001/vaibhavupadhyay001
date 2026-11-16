@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Upadhyay</h1>
+<h1 align="center">Hi , I'm Vaibhav Upadhyay</h1>
 <h3 align="center">
 Software Developer | Artificial Intelligence
 </h3>
