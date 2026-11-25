@@ -22,9 +22,9 @@ const CONFIG = {
     { id: 'instagram', label: 'Instagram', handle: '@imvaiibhav', color: '#7a2e3e', url: 'https://instagram.com/imvaiibhav' },
   ],
   platforms: [
-    { id: 'leetcode', name: 'LeetCode', mark: 'LC', handle: 'vaibhavupadhya01', url: 'https://leetcode.com/u/vaibhavupadhya01', color: '#8a5b1d', big: 'Knight', sub: 'LeetCode badge' },
-    { id: 'gfg', name: 'GeeksforGeeks', mark: 'GfG', handle: 'vaibhavupadhyay01', url: 'https://www.geeksforgeeks.org/user/vaibhavupadhyay01', color: '#2e5d3b', big: 'Top 1.3%', sub: 'in institute' },
-    { id: 'hackerrank', name: 'HackerRank', mark: 'HR', handle: 'upadhyayvaibhav6', url: 'https://www.hackerrank.com/profile/upadhyayvaibhav6', color: '#2a5f68', big: '5\u2605', sub: 'stars on HackerRank' },
+    { id: 'leetcode', name: 'LeetCode', mark: 'LC', handle: 'vaibhav_upadhya', url: 'https://leetcode.com/u/vaibhav_upadhyay', color: '#8a5b1d', big: 'Knight', sub: 'LeetCode badge' },
+    { id: 'gfg', name: 'GeeksforGeeks', mark: 'GfG', handle: 'vaibhav_upadhyay', url: 'https://www.geeksforgeeks.org/user/vaibhav_upadhyay', color: '#2e5d3b', big: 'Top 1.3%', sub: 'in institute' },
+    { id: 'hackerrank', name: 'HackerRank', mark: 'HR', handle: 'upadhyay_vaibhav', url: 'https://www.hackerrank.com/profile/upadhyay_vaibhav', color: '#2a5f68', big: '5\u2605', sub: 'stars on HackerRank' },
   ],
   timeZone: 'Asia/Kolkata',
   outDir: 'assets',
