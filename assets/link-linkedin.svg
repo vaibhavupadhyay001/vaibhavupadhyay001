@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="38" viewBox="0 0 121 38" role="img">
+<defs>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+</defs>
+<rect x="1" y="1" width="119" height="36" rx="11" fill="#2d4a8a" stroke="#ffffff" stroke-opacity=".14" stroke-width="1.5"/>
+<g transform="translate(14 10)"><rect x="0" y="0" width="17" height="17" rx="3.5" fill="#fff"/><text x="8.5" y="13.5" font-family="'Fredoka','Baloo 2','Nunito','Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="12" font-weight="800" fill="#2d4a8a" fill-opacity="1" text-anchor="middle">in</text></g>
+<text x="40" y="24" font-family="'Fredoka','Baloo 2','Nunito','Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="14" font-weight="700" fill="#ffffff" fill-opacity="1" text-anchor="start" textLength="65" lengthAdjust="spacingAndGlyphs">LinkedIn</text>
+
+</svg>
