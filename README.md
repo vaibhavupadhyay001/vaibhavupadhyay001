@@ -1,19 +1,91 @@
-<div align="center">
+<h1 align="center">Hi , I'm Vaibhav Upadhyay</h1>
+<h3 align="center">
+Software Developer | Artificial Intelligence
+</h3>
 
-<img src="assets/header.svg" width="100%" alt="Hi, I'm Vaibhav">
+<table width="100%">
+<tr>
 
-<a href="https://github.com/vaibhavupadhyay001"><img src="assets/link-github.svg" height="38" alt="GitHub"></a>
-<a href="https://linkedin.com/in/vaibhavupadhyay01"><img src="assets/link-linkedin.svg" height="38" alt="LinkedIn"></a>
-<a href="https://instagram.com/imvaiibhav"><img src="assets/link-instagram.svg" height="38" alt="Instagram"></a>
+<td width="60%" valign="middle">
 
-<img src="assets/stats.svg" width="100%" alt="GitHub stats">
+- **B.Tech CSE (AI & ML)** Student
+- Currently learning **Django**
+- Solving **DSA** and building full-stack projects
+- Aspiring **Software Engineer**
+- E-mail **upadhyayvaibhav.work@gmail.com**
 
-<img src="assets/heatmap.svg" width="100%" alt="Contributions in the last 6 months">
+</td>
 
-<img src="assets/coding-title.svg" width="100%" alt="Coding profiles">
+<td width="40%" align="center">
 
-<a href="https://leetcode.com/u/vaibhavupadhya01"><img src="assets/coding-leetcode.svg" width="32%" alt="LeetCode - Knight"></a>
-<a href="https://www.geeksforgeeks.org/user/vaibhavupadhyay01"><img src="assets/coding-gfg.svg" width="32%" alt="GeeksforGeeks - Top 1.3% in institute"></a>
-<a href="https://www.hackerrank.com/profile/upadhyayvaibhav6"><img src="assets/coding-hackerrank.svg" width="32%" alt="HackerRank - 5 star"></a>
+<img alt="Coding"
+     src="https://raw.githubusercontent.com/vaibhavupadhyay001/vaibhavupadhyay001/main/coding.gif" width="100%" />
 
-</div>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+<h3 align="left">🌐 Connect with me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaibhav-upadhyay-a805b1347/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/imvaiibhav" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://github.com/vaibhavupadhyay001" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+
+<h3 align="left">💻 Languages & Tools</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,django,mysql,git,github,vscode&theme=dark" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+<table width="120%">
+<tr>
+
+<td width="75%" valign="top">
+
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavupadhyay001&theme=dark"
+    width="100%"
+  />
+</a>
+
+</td>
+
+<td width="25%" align="center" valign="middle">
+
+<img src="https://komarev.com/ghpvc/?username=vaibhavupadhyay001&label=Profile+Views&style=for-the-badge"/>
+
+<br><br><br>
+
+<img src="https://img.shields.io/github/stars/vaibhavupadhyay001?affiliations=OWNER&style=for-the-badge&label=Stars"/>
+
+</td>
+
+</tr>
+</table>
