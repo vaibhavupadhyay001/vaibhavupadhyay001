@@ -21,6 +21,11 @@ const CONFIG = {
     { id: 'linkedin', label: 'LinkedIn', handle: '', color: '#2d4a8a', url: 'https://linkedin.com/in/vaibhavupadhyay01' },
     { id: 'instagram', label: 'Instagram', handle: '@imvaiibhav', color: '#7a2e3e', url: 'https://instagram.com/imvaiibhav' },
   ],
+  platforms: [
+    { id: 'leetcode', name: 'LeetCode', mark: 'LC', handle: 'vaibhavupadhya01', url: 'https://leetcode.com/u/vaibhavupadhya01', color: '#8a5b1d', big: 'Knight', sub: 'LeetCode badge' },
+    { id: 'gfg', name: 'GeeksforGeeks', mark: 'GfG', handle: 'vaibhavupadhyay01', url: 'https://www.geeksforgeeks.org/user/vaibhavupadhyay01', color: '#2e5d3b', big: 'Top 1.3%', sub: 'in institute' },
+    { id: 'hackerrank', name: 'HackerRank', mark: 'HR', handle: 'upadhyayvaibhav6', url: 'https://www.hackerrank.com/profile/upadhyayvaibhav6', color: '#2a5f68', big: '5\u2605', sub: 'stars on HackerRank' },
+  ],
   timeZone: 'Asia/Kolkata',
   outDir: 'assets',
 };
@@ -32,9 +37,10 @@ const ORANGE = '#f2784b';
 
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const fmt = (n) => Number(n).toLocaleString('en-US');
-const estW = (s, size, f = 0.56) => Math.round(String(s).length * size * f);
+const SHRINK = 2; // every font is 2px smaller than the base design
+const estW = (s, size, f = 0.56) => Math.round(String(s).length * (size - SHRINK) * f);
 const text = (s, x, y, size, fill, { weight = 700, mono = false, anchor = 'start', tl = 0, op = 1 } = {}) =>
-  `<text x="${x}" y="${y}" font-family="${mono ? MONO : FONT}" font-size="${size}" font-weight="${weight}" fill="${fill}" fill-opacity="${op}" text-anchor="${anchor}"${
+  `<text x="${x}" y="${y}" font-family="${mono ? MONO : FONT}" font-size="${size - SHRINK}" font-weight="${weight}" fill="${fill}" fill-opacity="${op}" text-anchor="${anchor}"${
     tl ? ` textLength="${tl}" lengthAdjust="spacingAndGlyphs"` : ''
   }>${esc(s)}</text>`;
 
@@ -290,6 +296,22 @@ ${text('contributions per day', px + 18, gridBottom + 28, 14, '#aab0d0', { mono:
 ${legend}`);
 }
 
+/* ───────────────────────── coding profiles ───────────────────────── */
+function platformTitle() {
+  return wrap(820, 52, text('Coding profiles', 30, 38, 28, '#ffffff', { weight: 800 }));
+}
+function platformTile(p) {
+  const W = 262, H = 132;
+  const bigSize = p.big.length > 6 ? 30 : 36;
+  return wrap(W, H, `<rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="20" fill="${p.color}" stroke="#ffffff" stroke-opacity=".14" stroke-width="2"/>
+<rect x="16" y="16" width="38" height="38" rx="10" fill="#0f1120" fill-opacity=".45"/>
+${text(p.mark, 35, 41, 15, '#ffffff', { weight: 800, anchor: 'middle' })}
+${text(p.name, 64, 33, 20, '#ffffff', { weight: 800 })}
+${text('@' + p.handle, 64, 51, 13, '#ffffff', { mono: true, weight: 500, op: 0.7 })}
+${text(p.big, 18, 98, bigSize, '#ffffff', { weight: 800 })}
+${text(p.sub, 18, 119, 14, '#ffffff', { weight: 500, op: 0.85 })}`);
+}
+
 /* ───────────────────────── main ───────────────────────── */
 const demo = process.argv.includes('--demo');
 const data = demo ? demoData() : await realData();
@@ -301,5 +323,7 @@ const out = (f, s) => writeFileSync(`${CONFIG.outDir}/${f}`, s);
 out('header.svg', header());
 out('stats.svg', statsCard(data, st, dateLabel));
 out('heatmap.svg', heatmap(data.days));
+out('coding-title.svg', platformTitle());
+for (const p of CONFIG.platforms) out(`coding-${p.id}.svg`, platformTile(p));
 for (const l of CONFIG.links) out(`link-${l.id}.svg`, linkPill(l));
 console.log(`${demo ? '[demo] ' : ''}wrote cards → ${CONFIG.outDir}/`, { ...st, repos: data.repos, stars: data.stars, downloads: data.downloads });
